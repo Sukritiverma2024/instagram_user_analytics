@@ -24,16 +24,16 @@ The approach to this project was kept very straight forward. The database was ca
 Insight
 Following were the observations made from the results of various queries.
 1. The 5 oldest Instagram users are :-
-![image](https://user-images.githubusercontent.com/95185842/191434877-63b4b6b3-2f90-4297-bae7-bdb26060c208.png)
+![image](https://user-images.githubusercontent.com/95185842/191434877-63b4b6b3-2f90-4297-bae7-bdb26060c208.png) <br>
 2. The inactive users of Instagram are:-
-![image](https://user-images.githubusercontent.com/95185842/191435089-9be8750c-06a8-4df4-a783-c9fef1011e49.png)
+![image](https://user-images.githubusercontent.com/95185842/191435089-9be8750c-06a8-4df4-a783-c9fef1011e49.png) <br>
 3. The inactive users of Instagram are:-
-![image](https://user-images.githubusercontent.com/95185842/191435289-bbacadaf-af85-4720-8fb0-a35e51b2f0b0.png)
+![image](https://user-images.githubusercontent.com/95185842/191435289-bbacadaf-af85-4720-8fb0-a35e51b2f0b0.png) <br>
 4. 5 most commonly used hashtags:-
-![image](https://user-images.githubusercontent.com/95185842/191435445-8c8884c6-4701-47ef-b8f2-53be2a86b248.png)
+![image](https://user-images.githubusercontent.com/95185842/191435445-8c8884c6-4701-47ef-b8f2-53be2a86b248.png) <br>
 5. Best day to launch an AD campaign:-
-![image](https://user-images.githubusercontent.com/95185842/191435686-99cd16cf-63be-453c-91f6-b676d8e6e961.png)
+![image](https://user-images.githubusercontent.com/95185842/191435686-99cd16cf-63be-453c-91f6-b676d8e6e961.png) <br> 
 6. Total number of users on Instagram, total number of posts on Instagram and number of times an average user posts on Instagram:-
-![image](https://user-images.githubusercontent.com/95185842/191435863-65d01a87-6933-4704-a30c-62f4d9329a74.png)
+![image](https://user-images.githubusercontent.com/95185842/191435863-65d01a87-6933-4704-a30c-62f4d9329a74.png) <br>
 7. List of all the fake accounts on Instagram:-
-![image](https://user-images.githubusercontent.com/95185842/191435999-69ef20e2-e8eb-4308-b155-863d77b852f6.png)
+![image](https://user-images.githubusercontent.com/95185842/191435999-69ef20e2-e8eb-4308-b155-863d77b852f6.png) 
